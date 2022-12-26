@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
+name: Homebridge
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
